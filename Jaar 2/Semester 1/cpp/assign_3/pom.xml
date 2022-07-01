@@ -7,7 +7,7 @@
     <version>0.1-SNAPSHOT</version>
     <properties>
         <java.version>7</java.version>
-        <hadoop.version>2.6.0</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <exec.mainClass>nl.uva.cpp.WordCount</exec.mainClass>
     </properties>
   
